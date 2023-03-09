@@ -1,0 +1,12 @@
+@import 'fonts';
+
+.navbar-brand {
+    font-family: $nav-font !important;
+    font-size: 40px;
+}
+
+.navbar-nav .nav-link {
+    font-family: $nav-font;
+    font-size: 25px;
+}
+
